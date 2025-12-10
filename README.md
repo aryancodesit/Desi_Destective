@@ -38,7 +38,7 @@ Want to play locally or contribute? Follow these steps:
     ```bash
     npm run dev
     ```
-    Open [http://localhost:3000](http://localhost:3000) in your browser to enter "The Grid".
+    Open [http://localhost:3000](http://localhost:3000) in your browser to enter tour detective PC.
 
 ## 📊 Community Leaderboard
 When you finish playing (or fixing/expanding) the cases, please open a standard Issue or Pull Request sharing:
