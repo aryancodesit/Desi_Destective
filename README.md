@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# DESI DETECTIVE 🕵️‍♂️🇮🇳
 
-## Getting Started
+**"The Grid" - Advanced Forensic OS**
 
-First, run the development server:
+> ⚠️ **DEVELOPER NOTE:** 
+> The creator hasn't fully completed/polished all the cases yet. The framework is in place, but the mysteries run deep. 
+> **Can you solve them before I do?**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 The Challenge
+We are releasing this to the community in its current state. 
+- **FORK THIS REPO** if you manage to complete the storylines or add new depths to them before the original creator.
+- **CONTRIBUTE** your own procedural cases.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📊 Community Leaderboard
+When you finish playing (or fixing/expanding) the cases, please open a standard Issue or Pull Request sharing:
+1.  **Time Taken**: Approx time to solve all 5 cases.
+2.  **Rating**: Your rating out of 10.
+3.  **Feedback**: What mechanics did you enjoy?
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🕹️ Cases Included
+1.  **001: Silence of the Sangeet** (Steganography)
+2.  **002: Bangalore Bit-Rot** (Hex Analysis)
+3.  **003: Ghost of Golconda** (Audio Isolation)
+4.  **004: Midnight Local** (Time Synchronization)
+5.  **005: Bollywood Blackmail** (Geo-Triangulation)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠️ Tech Stack
+-   **Framework**: Next.js
+-   **Styling**: Tailwind CSS / Lucide React
+-   **Engine**: Custom Procedural Mystery Engine (`lib/game_engine.js`)
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+*Created by [Your Name/Handle]*
