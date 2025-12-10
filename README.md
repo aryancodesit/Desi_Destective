@@ -30,4 +30,4 @@ When you finish playing (or fixing/expanding) the cases, please open a standard 
 -   **Engine**: Custom Procedural Mystery Engine (`lib/game_engine.js`)
 
 ---
-*Created by [Your Name/Handle]*
+*Created by Aryan Gupta
