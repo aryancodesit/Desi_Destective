@@ -11,6 +11,35 @@ We are releasing this to the community in its current state.
 - **FORK THIS REPO** if you manage to complete the storylines or add new depths to them before the original creator.
 - **CONTRIBUTE** your own procedural cases.
 
+
+## 💻 Installation & Setup
+
+Want to play locally or contribute? Follow these steps:
+
+### Prerequisites
+- Node.js (v18 or higher)
+- npm or yarn
+
+### Steps
+1.  **Clone the Repository**
+    ```bash
+    git clone https://github.com/aryancodesit/Desi_Destective.git
+    cd Desi_Destective
+    ```
+
+2.  **Install Dependencies**
+    ```bash
+    npm install
+    # or
+    yarn install
+    ```
+
+3.  **Run the OS**
+    ```bash
+    npm run dev
+    ```
+    Open [http://localhost:3000](http://localhost:3000) in your browser to enter "The Grid".
+
 ## 📊 Community Leaderboard
 When you finish playing (or fixing/expanding) the cases, please open a standard Issue or Pull Request sharing:
 1.  **Time Taken**: Approx time to solve all 5 cases.
@@ -30,4 +59,4 @@ When you finish playing (or fixing/expanding) the cases, please open a standard 
 -   **Engine**: Custom Procedural Mystery Engine (`lib/game_engine.js`)
 
 ---
-*Created by Aryan Gupta*
+*Created by [Aryan Gupta]*
