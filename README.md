@@ -1,6 +1,6 @@
 # DESI DETECTIVE 🕵️‍♂️🇮🇳
 
-**"The Grid" - Advanced Forensic OS**
+**"Desi Detective" - Advanced Forensic OS**
 
 > ⚠️ **DEVELOPER NOTE:** 
 > The creator hasn't fully completed/polished all the cases yet. The framework is in place, but the mysteries run deep. 
